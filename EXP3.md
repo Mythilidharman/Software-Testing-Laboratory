@@ -1,6 +1,6 @@
 # Ex.No: 3 To check the number is prime or not and inspect for failures.
  
-### DATE: 27.03.2025                                                                        
+### DATE: 17.04.2025                                                                        
 ### REGISTER NUMBER : 212222040104
 ### AIM: 
 Write a python program to check the number is prime or not and inspect for failures.
